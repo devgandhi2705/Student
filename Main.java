@@ -1,3 +1,7 @@
+//Dev gandhi 
+//23070126046
+//AIML SY A2
+
 import java.util.Scanner; // Importing Scanner class for user input
 
 public class Main {
